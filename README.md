@@ -2,7 +2,7 @@
 
 **B2B event marketer who builds the systems behind the stories.** AI workflows for event ROI, lead quality and closing the loop.
 
-I'm a B2B marketer (she/her) who creates demand through authentic storytelling and builds community through connected events.
+I'm a B2B marketer who creates demand through authentic storytelling and builds community through connected events.
 
 I also build the systems behind them: AI workflows, made with Claude, that decide whether an event is worth the money, turn messy badge scans into clean CRM lists, and write honest debriefs that close the loop. Below are generic versions of the tools I use every day.
 
